@@ -1,17 +1,150 @@
-.navbar{
-	background-color: #563E7C;
-	-webkit-box-shadow: 0 8px 6px -6px #999;
-	-moz-box-shadow: 0 8px 6px -6px #999;
-	box-shadow: 0 8px 6px -6px #999;
+body{
+    background-color: white;
 }
-
-.nav-link{
+.main{
+    position: relative;
+    text-align: center;
     color: white;
-    font-weight: normal;
-    font-size: 20px;
+    height: 50%;
 }
-.navbar-brand{
-    color: white;
-    font-weight: normal;
-    font-size: 20px;
+#img_1{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+#img_2{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+#img_3{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+.img_1{
+    padding: 5px 5px 5px 5px;
+    background-color: #FDF711;
+    border-radius: 50%;
+    width: 10%;
+    height: 16%;
+    position: absolute;
+    top: 8%;
+    right: 16px; 
+    margin-right: 20%;
+    margin-top: -3.5%;
+}
+.img_2{
+    padding: 5px 5px 5px 5px;
+    background-color: #FDF711;
+    border-radius: 50%;
+    width: 13%;
+    height: 20%;
+    position: absolute;
+    top: 30%;
+    right: 16px; 
+    margin-top: -8%;
+}
+.img_3{
+    padding: 5px 5px 5px 5px;
+    background-color: #FDF711;
+    border-radius: 50%;
+    width: 19%;
+    height: 30%;
+    position: absolute;
+    top: 60%;
+    right: 16px; 
+    margin-right: 20%;
+    margin-top: -15%;
+}
+.text1{
+     position: absolute;
+     bottom: 22%;
+     right: 0%;
+     margin-right: 5%;
+}
+.text2{
+     position: absolute;
+     bottom: 18%;
+     right: 0%;
+     margin-right: 10%;
+}
+.text3{
+	position: absolute;
+	bottom:14%;
+	right: 0%;
+	margin-right: 10%;
+}
+.text4{
+	position: absolute;
+	bottom:10%;
+	right: 0%;
+	background-color: #FDF711;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-radius: 20px 0px 0px 0px;
+}
+.text5{
+	position: absolute;
+	width: 100%;
+	bottom:8%;
+	right: 0%;
+	background-color: blue;
+}
+.text6{
+	width: 30%;
+	position: absolute;
+	bottom:0.6%;
+	right: 0%;
+	background-color: yellow;
+	margin-right: 45%;
+	border-radius: 0px 0px 20px 0px;
+}
+.text7{
+	position: absolute;
+	bottom:16%;
+	right: 0%;
+	background-color: purple;
+}
+.text8{
+	position: absolute;
+	bottom:18%;
+	right: 0%;
+	background-color: pink;
+}
+#font1{
+  color: #FDF711;
+  padding: 0px 10px 0px 10px;
+  font-size: 350%;
+  font-family: Arial Rounded MT Bold; 
+}
+#font2{
+  color: white;
+  padding: 0px 10px 0px 10px;
+  font-size: 200%;
+  font-family: impact; 
+}
+#font3{
+   color: #FDF711;
+   font-size: 150%;
+   font-family: Arial Rounded MT Bold;
+}
+#font4{
+   color: black;
+   font-family: impact;
+   font-size: 150%;
+}
+#font5{
+      color: blue;
+}
+#font6{
+	color: black;
+   font-size: 130%;
+   font-family: impact;  
+}
+#font7{
+   
+}
+#font8{
+   
 }
